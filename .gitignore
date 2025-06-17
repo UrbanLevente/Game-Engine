@@ -1,3 +1,10 @@
+# Ignore my files
+
+bin/
+bin-int/
+.vs/
+
+
 # Prerequisites
 *.d
 
