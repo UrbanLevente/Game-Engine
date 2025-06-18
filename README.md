@@ -25,6 +25,6 @@ Follow these simple steps to get the **Game Engine** up and running:
 ## 🚧 Development Status
 
 This Game Engine is actively being developed.
-**🚀 [Get the Latest Release](https://github.com/UrbanLevente/16bit/releases/latest "latest release")**
+**🚀 [Get the Latest Release](https://github.com/UrbanLevente/Game-Engine/releases/latest "latest release")**
 
 Future improvements and features are planned. Contributions, feedback, and new ideas are always welcome! Feel free to open issues or submit pull requests.
